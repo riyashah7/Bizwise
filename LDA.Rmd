@@ -1,6 +1,5 @@
 ---
 title: "LDA"
-author: "Shishir Kurhade"
 date: "10 December 2017"
 output: pdf_document
 ---
